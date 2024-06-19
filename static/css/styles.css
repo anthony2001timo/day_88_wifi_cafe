@@ -1,0 +1,26 @@
+body {
+    background-color: #333;
+    text-align: center;
+    font-size: 1.5625rem; /*--> 25px;*/
+    color: #B2B2B2;
+}
+main {
+    padding: 5rem 4rem 6rem;
+}
+div h1 {
+    font-weight: 500;
+    font-size: 5rem;
+    color: #ffffff;
+    padding: 0 1rem;
+}
+
+div img {
+    height: 100px;
+}
+
+main .btn {
+    color: #ffffff;
+}
+main .btn:hover {
+    color: #ffffff;
+}
